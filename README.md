@@ -30,7 +30,7 @@
 10. [인공지능으로 세상에 없던 새로운 패션 만들기](https://github.com/Sallyrideauto/AIFFELog/blob/main/Exploration/%5BE-10%5DCIFAR10image.ipynb)
   * 이미지를 통해 GAN의 모델 구조를 생성
 11. [어제 오른 내 주식, 과연 내일은?](https://github.com/Sallyrideauto/AIFFELog/blob/main/Exploration/%5BE-11%5DStockPrediction.ipynb)
-  * RIMA(AutoRegressive Integrated Moving Average) 모델을 이용한 시계열 데이터 예측 방식을 이용하여 실제 주식의 값을 예측
+  * ARIMA(AutoRegressive Integrated Moving Average) 모델을 이용한 시계열 데이터 예측 방식을 이용하여 실제 주식의 값을 예측
 12. [한국어 데이터로 챗봇 만들기](https://github.com/Sallyrideauto/AIFFELog/blob/main/Exploration/%5BE-12%5DChatbot.ipynb)
   * 인코더와 디코더 구조를 가진 트랜스포머를 이용하여 한국어 데이터셋을 기반으로 한 챗봇 제작
 13. [인간보다 퀴즈를 잘 푸는 인공지능](https://github.com/Sallyrideauto/AIFFELog/blob/main/Exploration/%5BE-13%5DQuiz.ipynb)
@@ -39,7 +39,7 @@
   * MovieLens 1M Dataset을 이용하여 사용자 정보에 기반한 영화 추천 시스템 제작
 15. [문자를 읽을 수 있는 딥러닝](https://github.com/Sallyrideauto/AIFFELog/blob/main/Exploration/%5BE-15%5Docr.ipynb)
   * OCR 기능을 활용한 서비스를 기획함과 동시에 여러 OCR 모델의 성능을 검증 
-16. [ 다음에 볼 영화 예측하기](https://github.com/Sallyrideauto/AIFFELog/blob/main/Exploration/%5BE-16%5DMovieLensSBR.ipynb)
+16. [다음에 볼 영화 예측하기](https://github.com/Sallyrideauto/AIFFELog/blob/main/Exploration/%5BE-16%5DMovieLensSBR.ipynb)
   * Movielens 1M Dataset을 이용하여 Session based Recommendation 시스템을 제작 
 17. [난 스케치를 할 테니 너는 채색을 하거라](https://github.com/Sallyrideauto/AIFFELog/blob/main/Exploration/%5BE-17%5D%20SegmentationMap.ipynb)
   * cityscapes 데이터셋을 이용한 Segmentation map 도로 이미지 만들기 
