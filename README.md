@@ -2,7 +2,7 @@
 
 ## 📍 About
 * 인공지능에 관한 기초 기술과 NLP 심화 학습 기록
-* 2021년 12월 27일부터 2022년 06월 10일까지
+* 2021년 12월 27일부터 2022년 6월 10일까지
 
 ----
 
@@ -59,13 +59,17 @@
 ----
 
 ## 🛠 Hackathons
-* [Datathon(단타맛집)](https://github.com/Sallyrideauto/AIFFELog/blob/main/Datathon/netflix_final.ipynb)
-  * 2022. 03. 08 ~ 2022. 03. 11
+* [Datathon(단타맛집)](http://asq.kr/yjayiaQCc)
+  * 2022년 3월 8일부터 3월 11일까지
   * 함께 한 사람들 : 서현동, 고건호
-  * 주제에 따른 
-  * 함께 한 사람들 : 서현동, 고건호
-* AIFFELThon(VoC RM)
-  * 2022. 05. 03 ~ 2022. 06. 09 
+  * 넷플릭스 데이터셋을 이용한 데이터 분석 과제 수행
+  * pandas, numpy, matplotlib, seaborn, plotly를 이용하여 주제에 따른 데이터 분석 및 시각화([링크](https://github.com/Sallyrideauto/AIFFELog/blob/main/Datathon/netflix_final.ipynb))
+    * 시대에 따른 장르 트렌드 변화
+    * 특정 감독의 작품을 선호하는 사용자에게 맞는 장르 추천
+    * 업로드 시기에 따른 장르 변화
+* [AIFFELThon(VoC RM)](http://asq.kr/yhY1ly8O)
+  * 2022년 5월 3일부터 6월 9일까지 
   * 함께 한 사람들 : 이형주, 박효찬, 유원상
+  * 민원성 의견을 분류하기 위한 자연어 처리 모델 개발
   * 데이터 분석 및 전처리 수행([한국어 감성분석 데이터셋](https://github.com/Sallyrideauto/AIFFELog/blob/main/AIFFELThon/20220428_Sent_JSON_EDA.ipynb), [일상대화 데이터셋](https://github.com/Sallyrideauto/AIFFELog/blob/main/AIFFELThon/20220511_Daily_corp_EDA.ipynb))
   * 최종 발표 PPT 제작([링크](https://www.canva.com/design/DAFCwDhRfAQ/MY1kCw0jm0z33-QFExbqeA/view?utm_content=DAFCwDhRfAQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
