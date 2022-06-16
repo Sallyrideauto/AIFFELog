@@ -46,5 +46,21 @@
 
 ----
 
-## 🧠 Going Deeper(NLP)\
-* []()
+## 🧠 Going Deeper(NLP)
+1. [멋진 단어사전 만들기](https://github.com/Sallyrideauto/AIFFELog/blob/main/GoingDeeper_NLP/%5BGoingDeeperNLP_2%5D_Sentencepiece.ipynb)
+2. [뉴스 카테고리 다중분류(준비중)]()
+3. [임베딩 내 편향성 알아보기](https://github.com/Sallyrideauto/AIFFELog/blob/main/GoingDeeper_NLP/%5BGoingDeeperNLP_6%5DGenreJudge.ipynb)
+4. [Seq2seq으로 번역기 만들기](https://github.com/Sallyrideauto/AIFFELog/blob/main/GoingDeeper_NLP/%5BGoingDeeperNLP_8%5DSeq2seqTrans.ipynb)
+5. [Transformer로 번역기 만들기(준비중)]()
+6. [번역가는 대화에도 능하다(준비중)]()
+7. [BERT pretrained model 제작](https://github.com/Sallyrideauto/AIFFELog/blob/main/GoingDeeper_NLP/%5BGoingDeeperNLP_14%5DMiniBERT.ipynb)
+8. [HuggingFace 커스텀 프로젝트 만들기](https://github.com/Sallyrideauto/AIFFELog/blob/main/GoingDeeper_NLP/%5BGoingDeeperNLP_16%5DCustomProject.ipynb)
+
+----
+
+## 🛠 Hackathons
+* [Datathon](https://github.com/Sallyrideauto/AIFFELog/blob/main/Datathon/netflix_final.ipynb)
+* AIFFELThon
+  * 분석 및 전처리 수행 데이터
+    * (한국어 감성분석 데이터셋)[https://github.com/Sallyrideauto/AIFFELog/blob/main/AIFFELThon/20220428_Sent_JSON_EDA.ipynb]
+    * (일상대화 데이터셋)[https://github.com/Sallyrideauto/AIFFELog/blob/main/AIFFELThon/20220511_Daily_corp_EDA.ipynb]
