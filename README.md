@@ -59,8 +59,13 @@
 ----
 
 ## 🛠 Hackathons
-* [Datathon](https://github.com/Sallyrideauto/AIFFELog/blob/main/Datathon/netflix_final.ipynb)
-* AIFFELThon
-  * 분석 및 전처리 수행 데이터
-    * (한국어 감성분석 데이터셋)[https://github.com/Sallyrideauto/AIFFELog/blob/main/AIFFELThon/20220428_Sent_JSON_EDA.ipynb]
-    * (일상대화 데이터셋)[https://github.com/Sallyrideauto/AIFFELog/blob/main/AIFFELThon/20220511_Daily_corp_EDA.ipynb]
+* [Datathon(단타맛집)](https://github.com/Sallyrideauto/AIFFELog/blob/main/Datathon/netflix_final.ipynb)
+  * 2022. 03. 08 ~ 2022. 03. 11
+  * 함께 한 사람들 : 서현동, 고건호
+  * 주제에 따른 
+  * 함께 한 사람들 : 서현동, 고건호
+* AIFFELThon(VoC RM)
+  * 2022. 05. 03 ~ 2022. 06. 09 
+  * 함께 한 사람들 : 이형주, 박효찬, 유원상
+  * 데이터 분석 및 전처리 수행((한국어 감성분석 데이터셋)[https://github.com/Sallyrideauto/AIFFELog/blob/main/AIFFELThon/20220428_Sent_JSON_EDA.ipynb], (일상대화 데이터셋)[https://github.com/Sallyrideauto/AIFFELog/blob/main/AIFFELThon/20220511_Daily_corp_EDA.ipynb])
+  * 최종 발표 PPT 제작([링크](https://www.canva.com/design/DAFCwDhRfAQ/MY1kCw0jm0z33-QFExbqeA/view?utm_content=DAFCwDhRfAQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
