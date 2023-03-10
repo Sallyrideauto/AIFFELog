@@ -43,7 +43,7 @@
 ----
 
 ## 🛠 Hackathons
-* [Datathon(단타맛집)](http://asq.kr/yjayiaQCc)
+* [Datathon(단타맛집)](https://nbviewer.org/github/GeonHoKo/AIFFEL-HACKATHON/blob/main/%5BHackathon%5DNETFLIX%20EDA.ipynb)
   * 2022년 3월 8일부터 3월 11일까지
   * 함께 한 사람들 : 서현동, 고건호
   * 넷플릭스 데이터셋을 이용한 데이터 분석 과제 수행
@@ -51,7 +51,7 @@
     * 시대에 따른 장르 트렌드 변화
     * 특정 감독의 작품을 선호하는 사용자에게 맞는 장르 추천
     * 업로드 시기에 따른 장르 변화
-* [AIFFELThon(VoC RM)](http://asq.kr/yhY1ly8O)
+* [AIFFELThon(VoC RM)](https://bit.ly/AIFFELThon)
   * 2022년 5월 3일부터 6월 9일까지 
   * 함께 한 사람들 : 이형주, 박효찬, 유원상
   * 민원성 의견을 분류하기 위한 자연어 처리 모델 개발
